@@ -1,2 +1,3 @@
-# TorrentClient
-Implementing bittorrent protocol on my own using python
+## run on windows
+	py btclient.py [options] path/to/torrentfile path/to/savedir
+	
